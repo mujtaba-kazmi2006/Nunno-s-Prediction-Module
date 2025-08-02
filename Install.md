@@ -11,5 +11,7 @@ Welcome! This guide will help you install and run the **Nunno Predictor** module
 Open your terminal or command prompt:
 
 ```bash
-git clone https://github.com/mujtaba-kazmi2006/Nunno-s-Prediction-Module.git
-cd Nunno-s-Prediction-Module
+git clone https://github.com/mujtaba-kazmi2006/Nunno-Predictor.git
+cd Nunno-Predictor
+pip install -r requirements.txt
+python predictor_module.py
